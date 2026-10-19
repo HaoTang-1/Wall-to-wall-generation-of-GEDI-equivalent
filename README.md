@@ -1,1 +1,1 @@
-# Wall-to-wall-generation
+# Wall-to-wall-generation-of-GEDI-equivalent
